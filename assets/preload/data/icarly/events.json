@@ -1,0 +1,101 @@
+{
+	"song": {
+		"speed": 2.1,
+		"stage": null,
+		"player1": "AlooTutorial",
+		"player2": "gf",
+		"player3": null,
+		"events": [
+			[
+				16909.0909090909,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21272.7272727273,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25500,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				34363.6363636364,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			],
+			[
+				38727.2727272727,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42954.5454545455,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			],
+			[
+				51545.4545454546,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 110,
+		"arrowSkin": "HOLONOTE_assets",
+		"needsVoices": false,
+		"song": "Totally Real Not Fake Tutorial"
+	}
+}

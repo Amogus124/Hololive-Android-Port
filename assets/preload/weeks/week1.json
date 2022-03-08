@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"live again",
+			"dad",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"RIP",
+			"dad",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Callibattle",
+			"dad",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "Week1",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "Week1 Holo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

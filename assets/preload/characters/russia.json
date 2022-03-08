@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				116
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				89
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dad Sing Note DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				108
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				68
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-133,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "calm idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				1
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				-15
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "right scream",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				31
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "down scream",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				59
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "left scream",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				70
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "up scream",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Russia",
+	"position": [
+		-130,
+		220
+	],
+	"healthicon": "russia",
+	"flip_x": false,
+	"healthbar_colors": [
+		23,
+		255,
+		178
+	],
+	"camera_position": [
+		70,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

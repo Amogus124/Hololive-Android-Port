@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Sharkventure",
+			"amesame",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"mythbuster",
+			"amesame",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"haachama",
+			"chama",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "Week2",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "Week2 Holo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

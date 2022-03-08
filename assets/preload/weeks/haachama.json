@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"haachama ex",
+			"chama",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "chama",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "Haachama",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "Week6 Holo",
+	"startUnlocked": false
+}

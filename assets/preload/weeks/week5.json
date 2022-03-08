@@ -1,0 +1,58 @@
+{
+	"songs": [
+		[
+			"friday night",
+			"cocoa",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"cinderella",
+			"cocoa",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"gangimari",
+			"cocoa",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"hands",
+			"cocoa",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "Week4",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "Week5 Holo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

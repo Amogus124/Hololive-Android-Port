@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "spooky",
+		"player1": "AlooNoNecklace",
+		"player2": "spooky",
+		"player3": null,
+		"events": [
+			[
+				19830.5084745763,
+				[
+					[
+						"Play Animation",
+						"singLEFT-alt",
+						"spooky"
+					]
+				]
+			],
+			[
+				27966.1016949153,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"spooky"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 118,
+		"arrowSkin": "HOLONOTE_assets",
+		"needsVoices": true,
+		"song": "Sharkventure"
+	}
+}

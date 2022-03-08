@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"killer scream",
+			"russia",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "death",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "yrushia",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "Week5 Holo",
+	"startUnlocked": false
+}

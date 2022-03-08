@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"botan",
+			"button",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"lalion",
+			"button",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"poi",
+			"button",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "Week3",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "Week3 Holo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

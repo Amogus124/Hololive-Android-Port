@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "camellia",
+		"player1": "pico-player",
+		"player2": "camellia",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"noteskinchangeOPPT",
+						"NOTE_step",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "speaker",
+		"bpm": 152,
+		"arrowSkin": "HOLONOTE_assets",
+		"needsVoices": true,
+		"song": "Lioness Pride"
+	}
+}

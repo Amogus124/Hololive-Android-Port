@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "holomallevil",
+		"player1": "bf-christmas",
+		"player2": "monster-christmas",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Image Appearance",
+						"overlayEvil",
+						"10000000000000000000"
+					]
+				]
+			],
+			[
+				16410.2564102564,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				32948.7179487179,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				49230.7692307693,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				82179.4871794872,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				171282.051282051,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-christmas",
+		"bpm": 117,
+		"arrowSkin": "HOLONOTE_assets",
+		"needsVoices": true,
+		"song": "Red and Black"
+	}
+}

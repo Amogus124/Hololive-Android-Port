@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				8,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				8,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				34,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				-6,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP0"
+		},
+		{
+			"offsets": [
+				-4,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				11,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				34,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				-10,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-8,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-3,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				-6,
+				-2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				33,
+				-58
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "BF NOTE DOWN alt"
+		},
+		{
+			"offsets": [
+				8,
+				-13
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "BF NOTE LEFT alt"
+		},
+		{
+			"offsets": [
+				-3,
+				-5
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "BF NOTE RIGHT alt"
+		},
+		{
+			"offsets": [
+				-6,
+				21
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "BF NOTE UP alt"
+		},
+		{
+			"offsets": [
+				7,
+				-2
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "BF idle fard"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AlooNoNecklace",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "aloo-player",
+	"flip_x": true,
+	"healthbar_colors": [
+		239,
+		113,
+		177
+	],
+	"camera_position": [
+		150,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

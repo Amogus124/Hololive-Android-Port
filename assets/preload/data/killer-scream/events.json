@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "russia",
+		"player1": "aloo",
+		"player2": "russia",
+		"player3": null,
+		"events": [
+			[
+				70.0934579439252,
+				[
+					[
+						"Set GF Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				17943.9252336449,
+				[
+					[
+						"Set GF Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				18014.0186915888,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 214,
+		"arrowSkin": "HOLONOTE_assets",
+		"needsVoices": true,
+		"song": "Killer Scream"
+	}
+}

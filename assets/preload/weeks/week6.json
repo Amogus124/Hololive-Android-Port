@@ -1,0 +1,49 @@
+{
+	"storyName": "",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "Week5",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"hinotori",
+			"takamori",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"fry fry party",
+			"takamori",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"red and black",
+			"chama",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week6 Holo"
+}

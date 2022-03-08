@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				59,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "spooky kids YEAH!!"
+		},
+		{
+			"offsets": [
+				102,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "note sing left"
+		},
+		{
+			"offsets": [
+				-98,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spooky sing right"
+		},
+		{
+			"offsets": [
+				47,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spooky DOWN note"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "spooky dance idle",
+			"indices": [
+				0,
+				2,
+				6
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "spooky dance idle",
+			"indices": [
+				8,
+				10,
+				12,
+				14
+			]
+		},
+		{
+			"offsets": [
+				-18,
+				26
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "spooky UP NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-140
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "spooky DOWNnote MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-20
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "spooky singright MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				26
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "spooky UPNOTE MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-20
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "note singleft MISS",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Amesame",
+	"position": [
+		0,
+		170
+	],
+	"healthicon": "Amesame",
+	"flip_x": false,
+	"healthbar_colors": [
+		154,
+		202,
+		255
+	],
+	"camera_position": [
+		0,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="calli.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Calli Grin0000" x="0" y="0" width="1035" height="1300"/>
+	<SubTexture name="Calli Normal0000" x="1035" y="0" width="1035" height="1300"/>
+	<SubTexture name="Calli Pog0000" x="2070" y="0" width="1191" height="1308"/>
+	<SubTexture name="Calli Really0000" x="0" y="1308" width="1191" height="1308"/>
+	<SubTexture name="Calli Smug0000" x="1191" y="1308" width="1035" height="1300"/>
+	<SubTexture name="Calli Uh0000" x="2226" y="1308" width="1035" height="1300"/>
+</TextureAtlas>
